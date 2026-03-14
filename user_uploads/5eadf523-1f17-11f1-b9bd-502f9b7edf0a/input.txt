@@ -1,0 +1,6 @@
+file 'C:\shubh\Codes\PYTHON\Python_CWH\VidSnapAI\user_uploads\5eadf523-1f17-11f1-b9bd-502f9b7edf0a\3.jpg'
+duration 2.82
+file 'C:\shubh\Codes\PYTHON\Python_CWH\VidSnapAI\user_uploads\5eadf523-1f17-11f1-b9bd-502f9b7edf0a\4.jpg'
+duration 2.82
+file 'C:\shubh\Codes\PYTHON\Python_CWH\VidSnapAI\user_uploads\5eadf523-1f17-11f1-b9bd-502f9b7edf0a\5.jpg'
+duration 2.82
